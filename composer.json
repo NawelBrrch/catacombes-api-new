@@ -1,0 +1,10 @@
+{
+    "require": {
+        "slim/slim": "^4.3",
+        "slim/psr7": "^1.1",
+        "erusev/parsedown": "^1.7"
+    },
+    "autoload": {
+        "psr-4": {"Acme\\": "src/"}
+    }
+}
